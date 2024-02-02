@@ -1,0 +1,15 @@
+/home/christian/sources/estudos/estudandoCs4/bin/Debug/net6.0/estudandoCs4
+/home/christian/sources/estudos/estudandoCs4/bin/Debug/net6.0/estudandoCs4.deps.json
+/home/christian/sources/estudos/estudandoCs4/bin/Debug/net6.0/estudandoCs4.runtimeconfig.json
+/home/christian/sources/estudos/estudandoCs4/bin/Debug/net6.0/estudandoCs4.dll
+/home/christian/sources/estudos/estudandoCs4/bin/Debug/net6.0/estudandoCs4.pdb
+/home/christian/sources/estudos/estudandoCs4/obj/Debug/net6.0/estudandoCs4.csproj.AssemblyReference.cache
+/home/christian/sources/estudos/estudandoCs4/obj/Debug/net6.0/estudandoCs4.GeneratedMSBuildEditorConfig.editorconfig
+/home/christian/sources/estudos/estudandoCs4/obj/Debug/net6.0/estudandoCs4.AssemblyInfoInputs.cache
+/home/christian/sources/estudos/estudandoCs4/obj/Debug/net6.0/estudandoCs4.AssemblyInfo.cs
+/home/christian/sources/estudos/estudandoCs4/obj/Debug/net6.0/estudandoCs4.csproj.CoreCompileInputs.cache
+/home/christian/sources/estudos/estudandoCs4/obj/Debug/net6.0/estudandoCs4.dll
+/home/christian/sources/estudos/estudandoCs4/obj/Debug/net6.0/refint/estudandoCs4.dll
+/home/christian/sources/estudos/estudandoCs4/obj/Debug/net6.0/estudandoCs4.pdb
+/home/christian/sources/estudos/estudandoCs4/obj/Debug/net6.0/estudandoCs4.genruntimeconfig.cache
+/home/christian/sources/estudos/estudandoCs4/obj/Debug/net6.0/ref/estudandoCs4.dll
